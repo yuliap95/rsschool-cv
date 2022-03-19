@@ -1,13 +1,14 @@
 #__Yulia Petrova__
 ![my photo] (image/photo_me.jpg)
+
 ##__Contacts__
 
-*###__Location:__ Gomel,Belarus
-*###__Phone:__ +375295375338
-*###__Email:__ yulia_p95@mail.ru
-*###__GitHub:__ yuliap95
-*###__Telegram:__ Петрова Юлия
-*###__Discord:__ yuliap95#5423
+* ###__Location:__ Gomel,Belarus
+* ###__Phone:__ +375295375338
+* ###__Email:__ yulia_p95@mail.ru
+* ###__GitHub:__ yuliap95
+* ###__Telegram:__ Петрова Юлия
+* ###__Discord:__ yuliap95#5423
 
 ##__About Me__
 
@@ -15,9 +16,9 @@
 
 ##__Skills__
 
-*###__HTML__
-*###__CSS__
-*###__Git__
+* ###__HTML__
+* ###__CSS__
+* ###__Git__
 
 ##__Code Example__
 
