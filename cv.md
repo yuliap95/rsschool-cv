@@ -1,5 +1,5 @@
 # __Yulia Petrova__
-![my photo] (image/photo_me.jpg)
+! [ my photo ] (/image/photo_me.jpg)
 
 ## __Contacts__
 
@@ -22,7 +22,7 @@
 
 ## __Code Example__
 
-``` function multiply(a, b){
+```function multiply(a, b){
    return a * b;
    } 
    ```
